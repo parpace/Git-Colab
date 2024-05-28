@@ -27,4 +27,4 @@ Click on it and enter in the collaborators you'd like to work with on the projec
 
 > Once you invite them, they'll need to respond to the invite email sent to their email associated with their Github account
 
-I'm gonna fuck this up
+
