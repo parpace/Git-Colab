@@ -13,4 +13,17 @@ In actuality, we've been doing git collaboration all along! In the case of our h
 
 We'll be using the central repository feature branch method of collaboration for our group projects in this course. While this is the way we'll be collaborating in this course, there are other methods out there.
 
+
+Adding Collaborators
+When starting a new group project with a feature branch workflow, what we'll need to do first is add collaborators to the project.
+
+## To add collaborators on a repository:
+
+*Click on the Settings tab at the top right of the page*
+Within settings, click on the section titled Collaborators and teams
+You'll see a button for inviting people and organizations
+Click on it and enter in the collaborators you'd like to work with on the project
+
+> Once you invite them, they'll need to respond to the invite email sent to their email associated with their Github account
+
 I'm gonna fuck this up
