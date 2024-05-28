@@ -11,4 +11,3 @@ Pushing to our forked remote repository
 Finally, making a pull request on the main repository with our changes
 In actuality, we've been doing git collaboration all along! In the case of our homework, we've been using the fork and pull request method of collaboration.
 
-We'll be using the central repository feature branch method of collaboration for our group projects in this course. While this is the way we'll be collaborating in this course, there are other methods out there.
